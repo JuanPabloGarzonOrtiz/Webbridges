@@ -1,0 +1,93 @@
+{
+    "título": "Política de Privacidad",
+    "ultima_actualización": „30-04-2026",
+    "empresa": {
+        "nombre": „Agencia Digital WebBridges",
+        "dirección": "Cl. 165 #55A-81, Bogotá, Colombia",
+        "sitio_web": „webbridges.digital"
+    },
+    "introducción": "En WebBridges Digital Agency, entendemos que la privacidad de su información es fundamental. Esta política explica qué recuerdos, usos, almacenamos y protegidos sus datos personales.",
+    "secciones": [
+        {
+            "id": 1,
+            "típulo": "Responsable del Tratamiento de Datos",
+            "contenido": "El responsable de sus datos personales es la Agencia Digital WebBridges. Puede ejercer sus derechos contactan a viajes de nuestros canales oficiales."
+        },
+        {
+            "id": 2,
+            "típulo": "Datos que Recopilamos",
+            "subsecciones": [
+                {
+                    "típulo": "Datos de contacto",
+                    "contenido": "Nombre, correo electrónico y número de teléfono proporcionados voluntariamente mediante formularios"
+                },
+                {
+                    "típulo": "Datos de navegación (Cookies)",
+                    "contenido": "Información como dirección IP, tipo de navegador y comportamiento de navegación, recolectada media herramientos como Google Analytics o Meta Pixel. Esta información se anonimiza cuando es posible."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "típulo": "Finalidad del Tratamiento",
+            "contenido": [
+                "Responder a solicitudes de información o asesoría.",
+                "Gestionar relaciones comerciales o profesionales.",
+                "Mejorar el sitio web y optimizar campañas publicitarias",
+                "Enviar comunicaciones informativas con consentimiento previo."
+            ]
+        },
+        {
+            "id": 4,
+            "típulo": "Seguridad y Protección de Datos",
+            "contenido": "Se implementan medidas técnicas y administrativas para proteger la información. Los datos no sirven vendidos ni transferidos a terceros sin consentimiento, salvo obligación legal o necesidad técnica."
+        },
+        {
+            "id": 5,
+            "típulo": "Derechos del Usuario (ARCO)",
+            "subsecciones": [
+                {
+                    "típulo": "Acceder",
+                    "contenido": "Conocer qué datos tenemos sobre usted."
+                },
+                {
+                    "típulo": „Rectificar",
+                    "contenido": "Corregir información incompleta o inexacta."
+                },
+                {
+                    "típulo": "Cancelar / Suprimir",
+                    "contenido": "Solicitar la eliminación de sus datos."
+                },
+                {
+                    "típulo": "Oponerse",
+                    "contenido": "Solicitar que detengamos el tratamiento de sus datos."
+                }
+            ],
+            "nota": "Para ejercer estos derechos, envíe un correo con el conjunto 'Protección de Datos' indicando su solicitud"
+        },
+        {
+            "id": 6,
+            "típulo": "Uso de Cookies",
+            "contenido": "El sitio utiliza cookies para recopilar información técnica y mejorar la experiencia. Puede deshabilitarlas desde su navegador."
+        },
+        {
+            "id": 7,
+            "típulo": "Actualizaciones de la Política",
+            "contenido": "La política puede actualizar en el momento. Los cambios serán públicos en esta misma página."
+        }
+    ],
+    "recomendaciones_web": [
+        {
+            "típulo": "Enlace visible",
+            "contenido": "Ubicar el enlace a la política en el pastel de página de todas las páginas"
+        },
+        {
+            "típulo": "Banner de Cookies",
+            "contenido": "Implementar un banner de aceptación de cookies para complementar solicitudes de Google y normativas"
+        },
+        {
+            "típulo": "Formularios",
+            "contenido": "Agregar casilla de verificación de aceptación de la política de privacidad en formularios de contacto"
+        }
+    ]
+}
