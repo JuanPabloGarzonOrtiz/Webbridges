@@ -1,10 +1,10 @@
 {
-    "título": "Política de Privacidad",
+    "típulo": "Política de Privacidad",
     "ultima_actualización": „30-04-2026",
     "empresa": {
-        "nombre": „Agencia Digital WebBridges",
+        "nombre": "Agencia Digital WebBridges",
         "dirección": "Cl. 165 #55A-81, Bogotá, Colombia",
-        "sitio_web": „webbridges.digital"
+        "sitio_web": "webbridges.digital"
     },
     "introducción": "En WebBridges Digital Agency, entendemos que la privacidad de su información es fundamental. Esta política explica qué recuerdos, usos, almacenamos y protegidos sus datos personales.",
     "secciones": [
@@ -51,7 +51,7 @@
                     "contenido": "Conocer qué datos tenemos sobre usted."
                 },
                 {
-                    "típulo": „Rectificar",
+                    "típulo": "Rectificar",
                     "contenido": "Corregir información incompleta o inexacta."
                 },
                 {
