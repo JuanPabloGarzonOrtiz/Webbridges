@@ -1,70 +1,70 @@
 {
-    "título": "Términos y Condiciones de Uso",
-    "ultima_actualización": „30-04-2026",
-    "sitio_web": „webbridges.digital",
+    "titulo": "Términos y Condiciones de Uso",
+    "ultima_actualizacion": "2026-04-30",
+    "sitio_web": "webbridges.digital",
     "empresa": {
-        "nombre": „Agencia Digital WebBridges",
+        "nombre": "WebBridges Digital Agency",
         "nit": "000.000.000-0",
-        "dirección": "Cl. 165 #55A-81, Bogotá, Colombia"
+        "direccion": "Cl. 165 #55A-81, Bogotá, Colombia"
     },
-    "introducción": "Al navegar y utilizar este sitio, usted acepta plenamente estos tres. Si no está de acuerdo con ellos, le solicitamos abstenerse de utilizar el sitio,
+    "introduccion": "Al navegar y utilizar este sitio, usted acepta plenamente estos términos. Si no está de acuerdo con ellos, le solicitamos abstenerse de utilizar el sitio.",
     "secciones": [
         {
             "id": 1,
-            "típulo": "Identificación del Titular",
-            "contenido": "El sitio web webbridges.digital es propiedad de WebBridges Digital Agency. Para cual consulta, puede contactarnos a viajes de los canales de atención habilitados en nuestra sección de contacto
+            "titulo": "Identificación del Titular",
+            "contenido": "El sitio web webbridges.digital es propiedad de WebBridges Digital Agency. Para cualquier consulta, puede contactarnos a través de los canales de atención habilitados en nuestra sección de contacto."
         },
         {
             "id": 2,
-            "típulo": „Objeto del Sitio",
+            "titulo": "Objeto del Sitio",
             "contenido": "Este sitio tiene un carácter estrictamente informativo y de promoción de servicios. La información contenida no constituye una oferta comercial vinculante ni una relación contractual hasta formalizar un acuerdo por escrito."
         },
         {
             "id": 3,
-            "típulo": "Propiedad Intelectual y Signos Distintivos",
+            "titulo": "Propiedad Intelectual y Signos Distintivos",
             "subsecciones": [
                 {
-                    "típulo": „Marca Propia",
-                    "contenido": "El nombre, logotipo y signos distintivos de WebBridges Agencia Digital son propiedad exclusiva de La Agencia. Está prohibida su reproducción o uso no autorizado."
+                    "titulo": "Marca Propia",
+                    "contenido": "El nombre, logotipo y signos distintivos de WebBridges Digital Agency son propiedad exclusiva de La Agencia. Está prohibida su reproducción o uso no autorizado."
                 },
                 {
-                    "típulo": "Imágenes generadas por IA",
-                    "contenido": "Parte del material visual ha sido creado mediante Inteligencia Artificial. Su uso por terceros está sujeto a la legislación vigor, une los logotipos integrados les otorgan cárcter corporativo protegido."
+                    "titulo": "Imágenes generadas por IA",
+                    "contenido": "Parte del material visual ha sido creado mediante Inteligencia Artificial. Su uso por terceros está sujeto a la legislación vigente, aunque los logotipos integrados les otorgan carácter corporativo protegido."
                 },
                 {
-                    "típulo": „Marcas de Terceros",
-                    "contenido": "Se pueden perder logotipos de terceros como Meta, Google o Hostinger con finos informativos. La titularidad pertenece a sus respetivos debuños."
+                    "titulo": "Marcas de Terceros",
+                    "contenido": "Se pueden mostrar logotipos de terceros como Meta, Google o Hostinger con fines informativos. La titularidad pertenece a sus respectivos dueños."
                 }
             ]
         },
         {
             "id": 4,
-            "típulo": "Exclusión de Responsabilidad",
+            "titulo": "Exclusión de Responsabilidad",
             "contenido": [
-                "No se garantiza que el sitio esté libre de errores técnicos, virus o interrupciones",
-                "No se responsabiliza por decisiones tomadas sin consulta profesional previa",
-                "No se asume responsabilidad por contenidos o políticas de sitios externos enlazados"
+                "No se garantiza que el sitio esté libre de errores técnicos, virus o interrupciones.",
+                "No se responsabiliza por decisiones tomadas sin consultoría profesional previa.",
+                "No se asume responsabilidad por contenidos o políticas de sitios externos enlazados."
             ]
         },
         {
             "id": 5,
-            "típulo": "Obligaciones del Usuario",
-            "contenido": "El usuario se compromete a hacer un uso líquido del sitio y a no realizar acciones que afectan su funcionamiento o seguridad"
+            "titulo": "Obligaciones del Usuario",
+            "contenido": "El usuario se compromete a hacer un uso lícito del sitio y a no realizar acciones que afecten su funcionamiento o seguridad."
         },
         {
             "id": 6,
-            "típulo": "Tratamiento de Datos Personales",
-            "contenido": "Los datos personales se rigen por la Política de Privacidad, conforme a la Ley 1581 de 2012 de Colombia"
+            "titulo": "Tratamiento de Datos Personales",
+            "contenido": "Los datos personales se rigen por la Política de Privacidad, conforme a la Ley 1581 de 2012 de Colombia."
         },
         {
             "id": 7,
-            "típulo": "Modificaciones",
-            "contenido": "Agencia Digital WebBridges puede modificar estos términos en un momento real. El usuario debe revisar periódicamente."
+            "titulo": "Modificaciones",
+            "contenido": "WebBridges Digital Agency puede modificar estos términos en cualquier momento. El usuario debe revisarlos periódicamente."
         },
         {
             "id": 8,
-            "típulo": "Ley Aplicable y Jurisdicción",
-            "contenido": "Cualquier controversia será regulada por las leyes de Colombia y algo a los funcionarios de Bogotá"
+            "titulo": "Ley Aplicable y Jurisdicción",
+            "contenido": "Cualquier controversia será regulada por las leyes de Colombia y sometida a los tribunales de Bogotá."
         }
     ]
 }
