@@ -75,19 +75,5 @@
             "titulo": "Actualizaciones de la Política",
             "contenido": "La política puede actualizarse en cualquier momento. Los cambios serán publicados en esta misma página."
         }
-    ],
-    "recomendaciones_web": [
-        {
-            "titulo": "Enlace visible",
-            "contenido": "Ubicar el enlace a la política en el footer de todas las páginas."
-        },
-        {
-            "titulo": "Banner de Cookies",
-            "contenido": "Implementar un banner de aceptación de cookies para cumplir requisitos de Google y normativas."
-        },
-        {
-            "titulo": "Formularios",
-            "contenido": "Agregar checkbox de aceptación de la política de privacidad en formularios de contacto."
-        }
     ]
 }
